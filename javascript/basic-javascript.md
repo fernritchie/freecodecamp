@@ -174,3 +174,21 @@ A little more on this:
      then it increments and returns the value after incrementing.
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Increment_()
 
+### 12.) Decrement a number with JavaScript
+
+You can decrement (take one) to a variable with the `--` operator.
+
+```javascript
+
+i--; //Equivalent of below
+i = i - 1;
+```
+
+##### freecodecamp soloution
+
+```javascript
+var myVar = 11;
+
+// Only change code below this line
+myVar--;
+```
