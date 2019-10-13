@@ -1,6 +1,6 @@
 # Basic Javascript Exercises
 
-I will compile all of the basic Javascript into this document and give the bigger projects docs of their own.
+I will compile all of the basic Javascript into this document and give the bigger projects docs of their own. I will provide small explanations along with the working code snippets.
 
 ### 1.) Comment your JavaScript code
 
