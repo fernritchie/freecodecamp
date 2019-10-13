@@ -147,3 +147,21 @@ var product = 8 * 10; // would output 80
 ```javascript
 var quotient = 66 / 33; // would output 2
 ```
+
+### 11.) Increment a number with JavaScript
+
+You can increment (add one) to a variable with the `++` operator.
+
+```javascript
+
+i++; //Equivalent of below
+i = i + 1;
+```
+
+##### freecodecamp soloution
+```javascript
+var myVar = 87;
+
+// Only change code below this line
+myVar++; // adds one to myVar making it 88
+```
