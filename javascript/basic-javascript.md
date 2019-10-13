@@ -40,3 +40,22 @@ var ourName;
 // Declare myName below this line
 var myName;
 ```
+### Storing values with the assignment operator
+
+When you store values in a variable, you use the assignment operator =. Everything to the right of the = is stored in the variable on the left.
+
+```javascript
+var myName;
+myName = "Fern"; // This stores the string "Fern" in the variable myName
+```
+
+#### freecodecamp soloution
+```javascript
+// Setup
+var a;
+var b = 2;
+
+// Only change code below this line
+a = 7;
+b = a; // assigns the contents of a to the variable b
+```
