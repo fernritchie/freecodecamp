@@ -168,6 +168,9 @@ myVar++; // adds one to myVar making it 88
 A little more on this:
 
 >
-    If used postfix, with operator after operand (for example, x++), then it increments and returns the value before incrementing.
-    If used prefix, with operator before operand (for example, ++x), then it increments and returns the value after incrementing.
+    If used postfix, with operator after operand (for example, x++),
+     then it increments and returns the value before incrementing.
+    If used prefix, with operator before operand (for example, ++x),
+     then it increments and returns the value after incrementing.
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Arithmetic_Operators#Increment_()
+
