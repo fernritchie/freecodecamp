@@ -113,3 +113,37 @@ studlyCapVar;
 properCamelCase;
 titleCaseOver;
 ```
+
+### 7.) Adding two numbers with JavaScript
+
+`<Number>` is a data type in JavaScript which represents numeric data. To add numbers you just need to use the `<+>` operator between the two numbers.
+
+##### freecodecamp soloution
+```javascript
+var sum = 10 + 10; // would output 20
+```
+### 8.) Subtracting two numbers with JavaScript
+
+ To subtract numbers you just need to use the `<->` operator between the two numbers.
+
+##### freecodecamp soloution
+```javascript
+var difference = 45 - 33; // would output 12
+```
+### 9.) Multiplying two numbers with JavaScript
+
+ To multiply numbers you just need to use the `<*>` operator between the two numbers.
+
+##### freecodecamp soloution
+```javascript
+var product = 8 * 10; // would output 80
+```
+
+### 10.) Dividing two numbers with JavaScript
+
+ To divide numbers you just need to use the `</>` operator between the two numbers.
+
+##### freecodecamp soloution
+```javascript
+var quotient = 66 / 33; // would output 2
+```
