@@ -40,7 +40,7 @@ var ourName;
 // Declare myName below this line
 var myName;
 ```
-### Storing values with the assignment operator
+### 3.) Storing values with the assignment operator
 
 When you store values in a variable, you use the assignment operator =. Everything to the right of the = is stored in the variable on the left.
 
@@ -58,4 +58,58 @@ var b = 2;
 // Only change code below this line
 a = 7;
 b = a; // assigns the contents of a to the variable b
+```
+### 4.) Initializing variables with the assignment operator
+
+It is common to have to set an initial value for your variable. You would do this on the same line that the variable is declared.
+
+##### freecodecamp solution
+```javascript
+// Example
+var ourVar = 19;
+
+// Only change code below this line
+var a = 9; // declares the variable a and sets the initial value to 9
+```
+
+### 5.) Understanding unitialized variables
+
+When a JavaScript variable is declared, it is automatically set to the initial value of *undefined*. If you try to do a mathematical operation on an undefined variable you will get *NaN* (not a number). If you concatenate a string with undefined, you will get a literal string of "undefined".
+
+##### freecodecamp soloution
+```javascript
+// Initialize these three variables
+var a = 5; // set to a number 5
+var b = 10; // set to a number 10
+var c = "I am a"; // set to a string
+
+// Do not change code below this line
+
+a = a + 1;
+b = b + 5;
+c = c + " String!";
+
+// Output if printed variable 'c' to the console would be "I am a String!"
+```
+
+### 6.) Understanding case sensitivity in variables
+
+I previously stated that best practice is camelCase. Variables are case sensitive, meaning if you have a variable called *myVar* and another called *MYVAR* they would be seperate variables.
+
+##### freecodecamp soloution
+```javascript
+// Declarations
+var StUdLyCapVaR;
+var properCamelCase;
+var TitleCaseOver;
+
+// Assignments
+STUDLYCAPVAR = 10;
+PRoperCAmelCAse = "A String";
+tITLEcASEoVER = 9000;
+
+// Modified (replace current names with these)
+studlyCapVar;
+properCamelCase;
+titleCaseOver;
 ```
