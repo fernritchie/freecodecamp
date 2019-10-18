@@ -212,3 +212,12 @@ var myDecimal = 5.8;
 ```javascript
 var product = 2.0 * 2.5;
 ```
+
+### 15.) Divide One Decimal by Another with JavaScript
+
+##### freecodecamp solution
+```javascript
+var quotient = 4.4 / 2.0; // Fix this line
+
+// output would be 2.2
+```
