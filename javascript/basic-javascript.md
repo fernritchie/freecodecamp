@@ -192,3 +192,16 @@ var myVar = 11;
 // Only change code below this line
 myVar--;
 ```
+
+### 13.) Create decimal numbers with JavaScript
+
+You can store decimals or *floating point* numbers in JavaScript.
+
+##### freecodecamp solution
+
+```javascript
+var ourDecimal = 5.7;
+
+// Only change code below this line
+var myDecimal = 5.8;
+```
