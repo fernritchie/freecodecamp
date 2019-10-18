@@ -205,3 +205,10 @@ var ourDecimal = 5.7;
 // Only change code below this line
 var myDecimal = 5.8;
 ```
+
+### 14.) Multiply two decimals using javascript
+
+##### freecodecamp solution
+```javascript
+var product = 2.0 * 2.5;
+```
