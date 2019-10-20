@@ -221,3 +221,24 @@ var quotient = 4.4 / 2.0; // Fix this line
 
 // output would be 2.2
 ```
+### 16.) Finding a Remainder in JavaScript
+
+In JavaScript you use the %, or *remainder* symbol to find the remainder.
+
+E.G.
+```javascript
+5 % 2 = 1 because
+Math.floor(5 / 2) = 2 (Quotient)
+2 * 2 = 4
+5 - 4 = 1 (Remainder)
+```
+##### freecodecamp solution
+```javascript
+// Only change code below this line
+
+var remainder;
+remainder = 11 % 3
+```
+
+
+### 
