@@ -241,4 +241,24 @@ remainder = 11 % 3
 ```
 
 
-### 
+### 17.) Compound Assignment With Augmented Addition
+
+We use assignments to modify the value of a variable. Because we often need to modify a variable by adding or taking away, there is a common 'compund' symbol for this operation.
+
+```javascript
+var myVar = 1;
+myVar += 5;
+console.log(myVar); // Returns 6
+```
+##### freecodecamp solution
+```javascript
+var a = 3;
+var b = 17;
+var c = 12;
+
+// Only modify code below this line
+
+a += 12;
+b += 9;
+c += 7;
+```
