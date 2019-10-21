@@ -262,3 +262,20 @@ a += 12;
 b += 9;
 c += 7;
 ```
+
+### 18.) Compound Assignment With Augmented Subtraction
+
+The subtraction assignment uses the '-=' notation.
+
+##### freecodecamp solution
+```javascript
+var a = 11;
+var b = 9;
+var c = 3;
+
+// Only modify code below this line
+
+a -= 6;
+b -= 15;
+c -= 1;
+```
