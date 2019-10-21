@@ -313,6 +313,18 @@ var c = 33;
 a /= 12;
 b /= 4;
 c /= 11;
+```
 
+### 21.) Declare String Variables
 
+A string is a series of 0 or more characters wrapped in quotes. Eg. "This is a string."
+
+```javascript
+// Example
+var firstName = "Alan";
+var lastName = "Turing";
+
+// Only change code below this line
+var myFirstName = "Fern";
+var myLastName = "Ritchie";
 ```
